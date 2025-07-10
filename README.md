@@ -6,7 +6,7 @@ After two and a half years in engineering consulting, I grew frustrated with a c
 
 When I later dove into the world of computer science, everything clicked. I realized the biggest impact wouldn't come from individual projects alone. Programming wasn't just another tool - it was the key to amplifying environmental impact at scale.
 
-My first project combined my environmental expertise with Python to create a dashboard that makes 20+ years of stream health data accessible to everyone. Next, I'm taking these skills to the Philippines to tackle water scarcity challenges that could inform solutions globally.
+My first project combined my environmental enigneering expertise with Python to create a dashboard that makes 20+ years of stream health data accessible to everyone. Next, I'm taking these skills to the Philippines to tackle water scarcity challenges that could inform solutions globally.
 
 ## 🛠️ Skills & Technologies
 Python • Environmental Data Analysis • Dashboard Development • Water Resource Management
