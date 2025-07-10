@@ -8,9 +8,9 @@ When I later dove into the world computer science, everything clicked. I realize
 
 My first project combined my environmental expertise with Python to create a dashboard that makes 20+ years of stream health data accessible to everyone. Next, I'm taking these skills to the Philippines to tackle water scarcity challenges that could inform solutions globally.
 
-Skills & Technologies: Python, Environmental Data Analysis, Dashboard Development, Water Resource Management
-Learning Next: AI/ML Frameworks, JavaScript, Advanced Data Science
-Beyond Code: Rock climbing, meditation, travel, regenerative agriculture enthusiast
+**Skills & Technologies:** Python, Environmental Data Analysis, Dashboard Development, Water Resource Management
+**Learning Next:** AI/ML Frameworks, JavaScript, Advanced Data Science
+**Beyond Code:** Rock climbing, meditation, travel, regenerative agriculture enthusiast
 
 
 
