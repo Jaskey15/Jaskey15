@@ -1,18 +1,18 @@
 # Hi there! 👋
 
-Environmental data holds untapped potential to solve our planet's biggest challenges. Remote sensing technologies have drastically enhanced our ability to understand the natural world, but the real breakthroughs happen when we can identify patterns and scale solutions globally.
+I was never a fan of the deferred life plan. At the age of 25, I decided to quit my stable civil engineering job to explore parts unknown.
 
-After two and a half years in engineering consulting, I grew frustrated with a corporate model driven by short-term economics rather than meaningful impact. I decided to take time off to travel and learn about sustainability principles firsthand. I worked with regenerative agriculture and bioconstruction practitioners across South America and New Zealand.
+From working on a farm in New Zealand, to a government office in the Philippines, to climbing sheer cliffs in Patagonia, my life looked a bit different than what I knew before. The most important lesson I learned along the way is to approach every situation with a beginner's mind. Staying open, curious, and ready to learn.
 
-When I later dove into the world of computer science, everything clicked. I realized the biggest impact wouldn't come from individual projects alone. Programming wasn't just another tool - it was the key to amplifying environmental impact at scale.
+Three years later, my focus has shifted back towards building capital. My current obsession is all things software and artificial intelligence. We're at an inflection point that will reward those willing to re-think how humans interact with technology.
 
-My first project combined my environmental enigneering expertise with Python to create a dashboard that makes 20+ years of stream health data accessible to everyone. Next, I'm taking these skills to the Philippines to tackle water scarcity challenges that could inform solutions globally.
+Currently providing AI and automation support for small businesses as the founder of Workspring. If you're building at the edge of what's possible, I'd love to connect and hear what you're working on.
 
 ## 🛠️ Skills & Technologies
-Python • Environmental Data Analysis • Dashboard Development • Water Resource Management
+AI engineering • Worklfow automation • Web development • Data engineering  • Water resources management
 
-## 🌱 Learning Next
-AI/ML Frameworks • JavaScript • Advanced Data Science
+## 🌱 Learning Now
+Agent-driven software architecture • Realtime voice agents • Generative UI/UX 
 
 ## 🏔️ Beyond Code
 Rock climbing • Meditation • Travel • Regenerative agriculture enthusiast
