@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 I was never a fan of the deferred life plan. At the age of 25, I decided to quit my stable civil engineering job to explore parts unknown.
 
 From working on a farm in New Zealand, to a government office in the Philippines, to climbing sheer cliffs in Patagonia, my life looked a bit different than what I knew before. The most important lesson I learned along the way is to approach every situation with a beginner's mind. Staying open, curious, and ready to learn.
