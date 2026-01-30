@@ -6,7 +6,7 @@ Three years later, my focus has shifted back towards building capital. My curren
 
 Currently providing AI and automation support for small businesses as the founder of Workspring. If you're building at the edge of what's possible, I'd love to connect and hear what you're working on.
 
-## 🤖 Current Focus
+## ⚡ Current Focus
 Agent-driven development • Realtime voice agents • Generative UI/UX 
 
 ## 🛠️ Skills Stack
