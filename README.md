@@ -10,7 +10,7 @@ Currently providing AI and automation support for small businesses as the founde
 AI engineering • Worklfow automation • Web development • Data engineering  • Water resources management
 
 ## 🌱 Learning Now
-Agent-driven software architecture • Realtime voice agents • Generative UI/UX 
+Agent-driven development • Realtime voice agents • Generative UI/UX 
 
 ## 🏔️ Beyond Code
 Rock climbing • Meditation • Travel • Regenerative agriculture enthusiast
