@@ -2,7 +2,9 @@
 
 Biological engineering grad turned Peace Corps volunteer turned software builder. Three years of living and working across New Zealand, the Philippines, and Patagonia taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, building systems that act on your behalf rather than just responding to commands.
 
-Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission. Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com).
+Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission. 
+
+Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com).
 
 ---
 
