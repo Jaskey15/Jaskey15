@@ -1,19 +1,53 @@
-I was never a fan of the deferred life plan. At the age of 25, I decided to quit my stable civil engineering job to explore parts unknown.
+# Jacob Askey
 
-From working on a farm in New Zealand, to a government office in the Philippines, to climbing sheer cliffs in Patagonia, my life looked a bit different than what I knew before. The most important lesson I learned along the way is to approach every situation with a beginner's mind. Staying open, curious, and ready to learn.
+Bio eng grad turned Peace Corps volunteer turned software builder. Three years of living and working across New Zealand, the Philippines, and Patagonia taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, focused on the intersection of AI and automation — building tools that change how people interact with technology, not just digitize the old way of doing things.
 
-Three years later, my focus has shifted back towards building capital. My current obsession is all things software and artificial intelligence. We're at an inflection point that will reward those willing to re-think how humans interact with technology.
+Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission.
 
-Currently providing AI and automation support for small businesses as the founder of Workspring. If you're building at the edge of what's possible, I'd love to connect and hear what you're working on.
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [blue-thumb-dashboard](https://github.com/Jaskey15/blue-thumb-dashboard) | Stream health dashboard visualizing 20+ years of water quality monitoring data across Oklahoma | Python, Plotly, GCP, ArcGIS |
+| [voice-agents](https://github.com/Jaskey15/voice-agents) | Multi-voice agent architecture with real-time conversation handling | Python, ElevenLabs, Twilio |
+| [n8n-templates](https://github.com/Jaskey15/n8n-templates) | Production-tested automation templates for CRM, lead nurturing, and AI workflows | n8n, JavaScript |
+| [personal-website-template](https://github.com/Jaskey15/personal-website-template) | Minimal personal site with MDX blog and portfolio — built for developers and creatives | Next.js, TypeScript, Tailwind |
+
+---
 
 ## ⚡ Current Focus
-Agent-native architecture • Realtime voice agents • Generative UI/UX 
 
-## 🛠️ Skills Stack
-AI engineering • Worklfow automation • Web development • Data engineering  • Water resources management
+Agent-native architecture &nbsp;•&nbsp; Realtime voice agents &nbsp;•&nbsp; Generative UI/UX
 
-## 🏔️ Beyond Code
-Rock climbing • Meditation • Travel • Regenerative agriculture enthusiast
+## 🛠 Skills Stack
+
+AI engineering &nbsp;•&nbsp; Workflow automation &nbsp;•&nbsp; Web development &nbsp;•&nbsp; Data engineering &nbsp;•&nbsp; Water resources management
+
+## 🏔 Beyond Code
+
+Rock climbing &nbsp;•&nbsp; Meditation &nbsp;•&nbsp; Travel &nbsp;•&nbsp; Regenerative agriculture enthusiast
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+
+---
+
+> Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com)
 
 
 
