@@ -1,6 +1,6 @@
 # Jacob Askey
 
-Bio eng grad turned Peace Corps volunteer turned software builder. Three years of living and working across New Zealand, the Philippines, and Patagonia taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, focused on the intersection of AI and automation — building tools that change how people interact with technology, not just digitize the old way of doing things.
+Biological engineer turned Peace Corps volunteer turned software builder. Three years of living and working across New Zealand, the Philippines, and Patagonia taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, focused on the intersection of AI and automation — building tools that change how people interact with technology, not just digitize the old way of doing things.
 
 Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission.
 
@@ -43,7 +43,7 @@ Rock climbing &nbsp;•&nbsp; Meditation &nbsp;•&nbsp; Travel &nbsp;•&nbsp; 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&theme=dark&hide_border=true&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&theme=dark&hide_border=true)" alt="Top Languages" />
 
 ---
 
