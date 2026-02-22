@@ -1,8 +1,8 @@
 # Jacob Askey
 
-Biological engineer turned Peace Corps volunteer turned software builder. Three years of living and working across New Zealand, the Philippines, and Patagonia taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, focused on the intersection of AI and automation — building tools that change how people interact with technology, not just digitize the old way of doing things.
+Bio eng grad turned Peace Corps volunteer turned software builder. Three years of living and working across New Zealand, the Philippines, and Patagonia taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, focused on the intersection of AI and automation — building tools that change how people interact with technology, not just digitize the old way of doing things.
 
-Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission.
+Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission. Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com).
 
 ---
 
@@ -12,7 +12,8 @@ Currently running [Workspring](https://www.workspring.io) and volunteering as a 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
 
 ---
 
@@ -38,17 +39,3 @@ AI engineering &nbsp;•&nbsp; Workflow automation &nbsp;•&nbsp; Web developme
 ## 🏔 Beyond Code
 
 Rock climbing &nbsp;•&nbsp; Meditation &nbsp;•&nbsp; Travel &nbsp;•&nbsp; Regenerative agriculture enthusiast
-
----
-
-## 📊 GitHub Stats
-
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&theme=dark&hide_border=true&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&theme=dark&hide_border=true)" alt="Top Languages" />
-
----
-
-> Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com)
-
-
-
-
