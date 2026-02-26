@@ -30,7 +30,7 @@ Always open to collaboration. If you're building at the edge of what's possible,
 | [blue-thumb-dashboard](https://github.com/Jaskey15/blue-thumb-dashboard) | Stream health dashboard visualizing 20+ years of water quality monitoring data across Oklahoma | Python, Plotly, GCP, ArcGIS |
 | [personal-website-template](https://github.com/Jaskey15/personal-website-template) | Minimal personal site with MDX blog and portfolio — built for developers and creatives | Next.js, TypeScript, Tailwind |
 | [voice-agents](https://github.com/Jaskey15/voice-agents) | Multi-voice agent architecture with real-time conversation handling | Python, ElevenLabs, Twilio |
-| [n8n-templates](https://github.com/Jaskey15/n8n-templates) | Production-tested automation templates for CRM, lead nurturing, and AI workflows | n8n, JavaScript |
+| [n8n-templates](https://github.com/Jaskey15/n8n-templates) | Production-tested automation templates for CRM integrations, lead nurturing, and AI workflows | n8n, JavaScript |
 
 ---
 
