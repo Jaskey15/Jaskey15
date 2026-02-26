@@ -34,7 +34,7 @@ Writing about technology, travel, and the human experience at [jacobaskey.com](h
 
 ## ⚡ Current Focus
 
-Cloud Engineering • Agent-native architecture • Realtime voice agents
+Cloud engineering • Agent-native architecture • Realtime voice agents
 
 ## 🛠 Skills Stack
 
