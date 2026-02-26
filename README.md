@@ -2,7 +2,7 @@
 
 Biosystems engineer turned software builder. 
 
-Three years of living and working across New Zealand, the Philippines, and South America taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, applying that mindset to leverage the latest advancements in AI and scale impact.
+Three years of living and working across New Zealand, the Philippines, and South America taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, applying that mindset software. The latest advancements in artificial intelligence present an opportunity to re-think how humans interact with technology.
 
 Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission. 
 
@@ -26,9 +26,9 @@ Writing about technology, travel, and the human experience at [jacobaskey.com](h
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [blue-thumb-dashboard](https://github.com/Jaskey15/blue-thumb-dashboard) | Stream health dashboard visualizing 20+ years of water quality monitoring data across Oklahoma | Python, Plotly, GCP, ArcGIS |
+| [personal-website-template](https://github.com/Jaskey15/personal-website-template) | Minimal personal site with MDX blog and portfolio — built for developers and creatives | Next.js, TypeScript, Tailwind |
 | [voice-agents](https://github.com/Jaskey15/voice-agents) | Multi-voice agent architecture with real-time conversation handling | Python, ElevenLabs, Twilio |
 | [n8n-templates](https://github.com/Jaskey15/n8n-templates) | Production-tested automation templates for CRM, lead nurturing, and AI workflows | n8n, JavaScript |
-| [personal-website-template](https://github.com/Jaskey15/personal-website-template) | Minimal personal site with MDX blog and portfolio — built for developers and creatives | Next.js, TypeScript, Tailwind |
 
 ---
 
@@ -38,7 +38,7 @@ Agent-native architecture &nbsp;•&nbsp; Realtime voice agents &nbsp;•&nbsp; 
 
 ## 🛠 Skills Stack
 
-AI engineering &nbsp;•&nbsp; Workflow automation &nbsp;•&nbsp; Web development &nbsp;•&nbsp; Data engineering &nbsp;•&nbsp; Water resources management
+AI engineering &nbsp;•&nbsp; Data engineering &nbsp;•&nbsp; Web development &nbsp;•&nbsp; Water resources management &nbsp;•&nbsp; Workflow automation
 
 ## 🏔 Beyond Code
 
