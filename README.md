@@ -8,6 +8,8 @@ Currently running [Workspring](https://www.workspring.io) and volunteering as a 
 
 Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com).
 
+Always open to collaboration. If you're building at the edge of what's possible, I'd love to connect and hear what you're working on.
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
