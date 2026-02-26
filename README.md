@@ -1,6 +1,8 @@
 # Jacob Askey
 
-Biosystems engineer turned software builder. Three years of living and working across New Zealand, the Philippines, and South America taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, building systems that act on your behalf rather than just responding to commands.
+Biosystems engineer turned software builder. 
+
+Three years of living and working across New Zealand, the Philippines, and South America taught me to approach every problem with a beginner's mind. Now I'm back at a keyboard, applying that mindset to leverage the latest advancements in AI and scale impact.
 
 Currently running [Workspring](https://www.workspring.io) and volunteering as a Data Engineer at the Oklahoma Conservation Commission. 
 
