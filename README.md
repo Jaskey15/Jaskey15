@@ -36,11 +36,11 @@ Always open to collaboration. If you're building at the edge of what's possible,
 
 ## ⚡ Current Focus
 
-Cloud engineering • Agent-native architecture • Realtime voice agents
+Realtime voice agents • Agent-native architecture • Cloud engineering
 
 ## 🛠 Skills Stack
 
-AI engineering • Data engineering • Web development • Water resources management • Workflow automation
+AI engineering • Data engineering • Web development • Workflow automation • Water resources management
 
 ## 🏔 Beyond Code
 
