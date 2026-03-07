@@ -28,11 +28,11 @@ Always open to collaboration. If you're building at the edge of what's possible,
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [blue-thumb-dashboard](https://github.com/Jaskey15/blue-thumb-dashboard) | Stream health dashboard visualizing 20+ years of water quality monitoring data across Oklahoma | Python, Plotly, GCP, ArcGIS |
+| [LUaid](https://github.com/r0droald/LUaid) *(contributor)* | Open-source PWA for disaster relief operations — donation tracking, volunteer deployments, and aid distribution | Next.js, TypeScript, WordPress |
 | [voice-agents](https://github.com/Jaskey15/voice-agents) | Multi-voice agent architecture with real-time conversation handling | Python, ElevenLabs, Twilio |
 | [n8n-templates](https://github.com/Jaskey15/n8n-templates) | Production-tested automation templates for CRM integrations, lead nurturing, and AI workflows | n8n, JavaScript |
 | [personal-website-template](https://github.com/Jaskey15/personal-website-template) | Minimal personal site with MDX blog and portfolio — built for developers and creatives | Next.js, TypeScript, Tailwind |
-| [dex-builds-dex](https://github.com/Jaskey15/dex-builds-dex) | AI agent with write access to its own brain — autonomous self-improvement experiment | OpenClaw, Claude, Telegram |
-| [LUaid](https://github.com/r0droald/LUaid) *(contributor)* | Open-source PWA for disaster relief operations — donation tracking, volunteer deployments, and aid distribution | Next.js, TypeScript, WordPress |
+| [dex-builds-dex](https://github.com/Jaskey15/dex-builds-dex) | AI agent with write access to its own brain — autonomous self-improvement experiment | OpenClaw, Claude, Discord |
 
 ---
 
