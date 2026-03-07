@@ -38,7 +38,7 @@ Always open to collaboration. If you're building at the edge of what's possible,
 
 ## ⚡ Current Focus
 
-Realtime voice agents • Agent-native architecture • Cloud engineering
+Real-time voice agents • Agent-native architecture • Cloud engineering
 
 ## 🛠 Skills Stack
 
