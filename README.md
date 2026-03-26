@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 🕺
 
-I'm a biosystems engineer turned software builder. 
+I'm a biosystems engineer turned software developer. 
 
 Three years of living and working across New Zealand, the Philippines, and South America taught me to approach every situation with a beginner's mind. Now I'm back at a keyboard, applying that mindset to software. The latest advancements in artificial intelligence present an opportunity to re-think how humans interact with technology.
 
