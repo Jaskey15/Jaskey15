@@ -15,7 +15,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <br /><br />
       <b><a href="https://brain-dump-lovat.vercel.app">brain-dump</a></b><br />
       An AI thought partner that turns raw inputs into living, self-organizing wikis.<br /><br />
-      <sub>Next.js · TypeScript · Oprnroute API</sub><br />
+      <sub>Vercel AI SDK · Next.js · TypeScript</sub><br />
       <a href="https://brain-dump-lovat.vercel.app">→ Live demo</a>
     </td>
     <td width="50%" valign="top">
