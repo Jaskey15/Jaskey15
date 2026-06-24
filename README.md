@@ -11,9 +11,9 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/brain-dump.png" width="100%" alt="brain-dump" />
+      <img src="assets/brain-dump.png" width="100%" alt="Distll" />
       <br /><br />
-      <b>brain-dump</b><br />
+      <b>Distll</b><br />
       An AI thought partner that turns raw inputs into living, self-organizing wikis.<br /><br />
       <sub>Vercel AI SDK · Next.js · TypeScript</sub><br />
       <sub><i>Demo available on request</i></sub>
