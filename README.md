@@ -29,30 +29,12 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://specbook-extractor.fly.dev"><img src="assets/specbook-extractor.png" width="100%" alt="specbook-extractor" /></a>
-      <br /><br />
-      <b><a href="https://github.com/Jaskey15/specbook-extractor">specbook-extractor</a></b><br />
-      Turns messy Division 08 spec PDFs into clean, structured hardware data (CSV / JSON).<br /><br />
-      <sub>Python · LLM extraction</sub><br />
-      <a href="https://specbook-extractor.fly.dev">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/specbook-extractor">Code</a>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
       <br /><br />
       <b><a href="https://kapwa-help.vercel.app/demo/en">kapwa-help</a></b><br />
       PWA for disaster-relief operations in the Philippines.<br /><br />
       <sub>React · TypeScript · Vite</sub><br />
       <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Jaskey15/realtime-interview-practice"><img src="assets/realtime-interview-practice.png" width="100%" alt="realtime-interview-practice" /></a>
-      <br /><br />
-      <b><a href="https://github.com/Jaskey15/realtime-interview-practice">realtime-interview-practice</a></b><br />
-      Voice-based AI interviewer with live conversation and graded feedback.<br /><br />
-      <sub>Next.js · TypeScript · OpenAI Realtime API</sub><br />
-      <a href="https://github.com/Jaskey15/realtime-interview-practice">→ Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jaskey15/n8n-templates"><img src="assets/production-automation.png" width="100%" alt="production-automation" /></a>
@@ -61,6 +43,24 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       AI-generated SMS nurture + call-summary automations running on live client CRMs.<br /><br />
       <sub>n8n · Twilio · OpenAI</sub><br />
       <a href="#">→ Walkthrough (coming soon)</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/n8n-templates">Templates</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://specbook-extractor.fly.dev"><img src="assets/specbook-extractor.png" width="100%" alt="specbook-extractor" /></a>
+      <br /><br />
+      <b><a href="https://github.com/Jaskey15/specbook-extractor">specbook-extractor</a></b><br />
+      Turns messy Division 08 spec PDFs into clean, structured hardware data (CSV / JSON).<br /><br />
+      <sub>Python · LLM extraction</sub><br />
+      <a href="https://specbook-extractor.fly.dev">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/specbook-extractor">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaskey15/realtime-interview-practice"><img src="assets/realtime-interview-practice.png" width="100%" alt="realtime-interview-practice" /></a>
+      <br /><br />
+      <b><a href="https://github.com/Jaskey15/realtime-interview-practice">realtime-interview-practice</a></b><br />
+      Voice-based AI interviewer with live conversation and graded feedback.<br /><br />
+      <sub>Next.js · TypeScript · OpenAI Realtime API</sub><br />
+      <a href="https://github.com/Jaskey15/realtime-interview-practice">→ Code</a>
     </td>
   </tr>
 </table>
