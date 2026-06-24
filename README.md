@@ -31,7 +31,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
     <td width="50%" valign="top">
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
       <br /><br />
-      <b><a href="https://github.com/Jaskey15/blue-thumb-dashboard">blue-thumb-dashboard</a></b><br />
+      <b><a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">blue-thumb-dashboard</a></b><br />
       Stream-health dashboard on Google Cloud with an automatic daily sync (Cloud Scheduler to Cloud Function to Cloud Run) and a Vertex AI assistant grounded in stream-health docs, visualizing 20+ years of Oklahoma water-quality data.<br /><br />
       <sub>GCP (Cloud Run · Scheduler · Storage) · Vertex AI · Dash · Python · ArcGIS</sub><br />
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
@@ -49,7 +49,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
     <td width="50%" valign="top">
       <a href="https://specbook-extractor.fly.dev"><img src="assets/specbook-extractor.png" width="100%" alt="specbook-extractor" /></a>
       <br /><br />
-      <b><a href="https://github.com/Jaskey15/specbook-extractor">specbook-extractor</a></b><br />
+      <b><a href="https://specbook-extractor.fly.dev">specbook-extractor</a></b><br />
       Turns messy Division 08 spec PDFs into clean, structured hardware data. A deterministic pipeline (OCR detection, regex filtering, geometry-based line numbering) feeds an LLM extraction stage with forced structured output, audited at 97.1% field accuracy.<br /><br />
       <sub>Claude (tool use · structured output) · pdfplumber · OCR · Python · FastAPI</sub><br />
       <a href="https://specbook-extractor.fly.dev">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/specbook-extractor">Code</a>
