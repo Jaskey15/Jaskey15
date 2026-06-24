@@ -11,12 +11,12 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://brain-dump-lovat.vercel.app"><img src="assets/brain-dump.png" width="100%" alt="brain-dump" /></a>
+      <img src="assets/brain-dump.png" width="100%" alt="brain-dump" />
       <br /><br />
-      <b><a href="https://brain-dump-lovat.vercel.app">brain-dump</a></b><br />
+      <b>brain-dump</b><br />
       An AI thought partner that turns raw inputs into living, self-organizing wikis.<br /><br />
       <sub>Vercel AI SDK · Next.js · TypeScript</sub><br />
-      <a href="https://brain-dump-lovat.vercel.app">→ Live demo</a>
+      <sub><i>Demo available on request</i></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
