@@ -29,12 +29,12 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Jaskey15/specbook-extractor"><img src="assets/specbook-extractor.png" width="100%" alt="specbook-extractor" /></a>
+      <a href="https://specbook-extractor.fly.dev"><img src="assets/specbook-extractor.png" width="100%" alt="specbook-extractor" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/specbook-extractor">specbook-extractor</a></b><br />
       Turns messy Division 08 spec PDFs into clean, structured hardware data (CSV / JSON).<br /><br />
       <sub>Python · LLM extraction</sub><br />
-      <a href="https://github.com/Jaskey15/specbook-extractor">→ Code</a>
+      <a href="https://specbook-extractor.fly.dev">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/specbook-extractor">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
