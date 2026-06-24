@@ -1,50 +1,87 @@
-# Hi, I'm Jacob 🕺
+# Hi, I'm Jacob 👋
 
-I'm a biosystems engineer turned software developer. 
+### I build and ship production AI systems, from voice agents to data tools.
 
-Three years of living and working across New Zealand, the Philippines, and South America taught me to approach every situation with a beginner's mind. Now I'm back at a keyboard, applying that mindset to software. The latest advancements in artificial intelligence present an opportunity to re-think how humans interact with technology.
-
-Currently running [Workspring](https://www.workspring.io) and volunteering as a data engineer for the Oklahoma Conservation Commission. 
-
-Writing about technology, travel, and the human experience at [jacobaskey.com](https://www.jacobaskey.com).
-
-Always open to collaboration. If you're building at the edge of what's possible, I'd love to connect and hear what you're working on.
+Consultant-turned-engineer. I pair a problem-solving background with hands-on AI engineering to take real-world problems from messy idea to deployed product. Below is what I've been shipping.
 
 ---
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://brain-dump-lovat.vercel.app"><img src="assets/brain-dump.png" width="100%" alt="brain-dump" /></a>
+      <br /><br />
+      <b><a href="https://brain-dump-lovat.vercel.app">brain-dump</a></b><br />
+      An AI thought partner that turns raw notes into living, self-organizing wikis.<br /><br />
+      <sub>Next.js · TypeScript · Claude API</sub><br />
+      <a href="https://brain-dump-lovat.vercel.app">→ Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
+      <br /><br />
+      <b><a href="https://github.com/Jaskey15/blue-thumb-dashboard">blue-thumb-dashboard</a></b><br />
+      Stream-health dashboard visualizing 20+ years of Oklahoma water-quality data.<br /><br />
+      <sub>Python · Plotly · GCP · ArcGIS</sub><br />
+      <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaskey15/fresco-challenge"><img src="assets/fresco-challenge.png" width="100%" alt="fresco-challenge" /></a>
+      <br /><br />
+      <b><a href="https://github.com/Jaskey15/fresco-challenge">fresco-challenge</a></b><br />
+      Turns messy Division 08 spec PDFs into clean, structured hardware data (CSV / JSON).<br /><br />
+      <sub>Python · LLM extraction</sub><br />
+      <a href="https://github.com/Jaskey15/fresco-challenge">→ Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
+      <br /><br />
+      <b><a href="https://kapwa-help.vercel.app/demo/en">kapwa-help</a></b><br />
+      Disaster-relief PWA mapping needs and relief hubs in real time.<br /><br />
+      <sub>React · TypeScript · Vite</sub><br />
+      <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaskey15/realtime-interview-practice"><img src="assets/realtime-interview-practice.png" width="100%" alt="realtime-interview-practice" /></a>
+      <br /><br />
+      <b><a href="https://github.com/Jaskey15/realtime-interview-practice">realtime-interview-practice</a></b><br />
+      Voice-based AI interviewer with live conversation and scored feedback.<br /><br />
+      <sub>Next.js · TypeScript · OpenAI Realtime API</sub><br />
+      <a href="https://github.com/Jaskey15/realtime-interview-practice">→ Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaskey15/n8n-templates"><img src="assets/production-automation.png" width="100%" alt="production-automation" /></a>
+      <br /><br />
+      <b><a href="https://github.com/Jaskey15/n8n-templates">production-automation (n8n)</a></b><br />
+      AI-generated SMS nurture + call-summary automations running on live client CRMs.<br /><br />
+      <sub>n8n · Twilio · OpenAI</sub><br />
+      <a href="#">→ Walkthrough (coming soon)</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/n8n-templates">Templates</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tools & stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+**Daily drivers:** Claude Code · Conductor
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [blue-thumb-dashboard](https://github.com/Jaskey15/blue-thumb-dashboard) | Stream health dashboard visualizing 20+ years of water quality monitoring data across Oklahoma | Python, Plotly, GCP, ArcGIS |
-| [kapwa-help](https://github.com/kapwa-help/kapwa-help)| Open-source PWA for disaster relief operations in the Philippines | Vite, React, TypeScript, WordPress |
-| [realtime-interview-practice](https://github.com/Jaskey15/realtime-interview-practice) | Voice-based AI interview practice app with real-time conversation and automated feedback | Next.js, TypeScript, OpenAI Realtime API |
-| [voice-agents](https://github.com/Jaskey15/voice-agents) | Multi-voice agent architecture with real-time conversation handling | Python, ElevenLabs, Twilio |
-| [n8n-templates](https://github.com/Jaskey15/n8n-templates) | Production-tested automation templates for CRM integrations, lead nurturing, and AI workflows | n8n, JavaScript |
-| [personal-website-template](https://github.com/Jaskey15/personal-website-template) | Minimal personal site with MDX blog and portfolio — built for developers and creatives | Next.js, TypeScript, Tailwind |
-| [dex-builds-dex](https://github.com/Jaskey15/dex-builds-dex) | An AI agent with write access to its own brain. What could go wrong? | OpenClaw, Claude, Discord |
-
----
-
-## ⚡ Current Focus
-
-Real-time voice agents • Agent-native architecture • Cloud engineering
-
-## 🛠 Skills Stack
-
-AI engineering • Data engineering • Web development • Workflow automation • Water resources management
-
-## 🏔 Beyond Code
-
-Rock climbing • Meditation • Travel • Regenerative agriculture enthusiast
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jaskey15&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskey15&layout=compact&hide_border=true&count_private=true&langs_count=8" alt="Top languages" />
+</div>
