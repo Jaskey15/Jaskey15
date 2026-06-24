@@ -37,12 +37,12 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Jaskey15/n8n-templates"><img src="assets/production-automation.png" width="100%" alt="production-automation" /></a>
+      <a href="https://github.com/Jaskey15/lead-nurture-pipeline"><img src="assets/lead-nurture-pipeline.png" width="100%" alt="lead-nurture-pipeline" /></a>
       <br /><br />
-      <b><a href="https://github.com/Jaskey15/n8n-templates">production-automation (n8n)</a></b><br />
-      AI-generated SMS nurture + call-summary automations running on live client CRMs.<br /><br />
-      <sub>n8n · Twilio · OpenAI</sub><br />
-      <a href="#">→ Walkthrough (coming soon)</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/n8n-templates">Templates</a>
+      <b><a href="https://github.com/Jaskey15/lead-nurture-pipeline">lead-nurture-pipeline</a></b><br />
+      AI SMS nurture system shipped for two detailing brands, sending 1,000+ messages a week from their existing CRM.<br /><br />
+      <sub>n8n · LLM · CRM integration</sub><br />
+      <a href="https://github.com/Jaskey15/lead-nurture-pipeline">→ Case study</a>
     </td>
   </tr>
   <tr>
