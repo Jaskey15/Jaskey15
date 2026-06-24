@@ -1,8 +1,8 @@
 # Hi, I'm Jacob 👋
 
-### I build and ship production AI systems, from voice agents to data tools.
+### I build and ship production AI systems, from voice agents to data infastructure.
 
-Consultant-turned-engineer. I pair a problem-solving background with hands-on AI engineering to take real-world problems from messy idea to deployed product. Below is what I've been shipping.
+Biosystems engineer turned software developer. I pair a problem-solving background with hands-on AI engineering to take real-world problems from messy idea to deployed product. Below is what I've been working on.
 
 ---
 
@@ -14,15 +14,15 @@ Consultant-turned-engineer. I pair a problem-solving background with hands-on AI
       <a href="https://brain-dump-lovat.vercel.app"><img src="assets/brain-dump.png" width="100%" alt="brain-dump" /></a>
       <br /><br />
       <b><a href="https://brain-dump-lovat.vercel.app">brain-dump</a></b><br />
-      An AI thought partner that turns raw notes into living, self-organizing wikis.<br /><br />
-      <sub>Next.js · TypeScript · Claude API</sub><br />
+      An AI thought partner that turns raw inputs into living, self-organizing wikis.<br /><br />
+      <sub>Next.js · TypeScript · Oprnroute API</sub><br />
       <a href="https://brain-dump-lovat.vercel.app">→ Live demo</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/blue-thumb-dashboard">blue-thumb-dashboard</a></b><br />
-      Stream-health dashboard visualizing 20+ years of Oklahoma water-quality data.<br /><br />
+      Stream-health dashboard integrated with GCPvisualizing 20+ years of Oklahoma water-quality data.<br /><br />
       <sub>Python · Plotly · GCP · ArcGIS</sub><br />
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
     </td>
@@ -40,7 +40,7 @@ Consultant-turned-engineer. I pair a problem-solving background with hands-on AI
       <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
       <br /><br />
       <b><a href="https://kapwa-help.vercel.app/demo/en">kapwa-help</a></b><br />
-      Disaster-relief PWA mapping needs and relief hubs in real time.<br /><br />
+      Disaster-relief PWA for disaster relief operations in the Philippines<br /><br />
       <sub>React · TypeScript · Vite</sub><br />
       <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
     </td>
@@ -50,7 +50,7 @@ Consultant-turned-engineer. I pair a problem-solving background with hands-on AI
       <a href="https://github.com/Jaskey15/realtime-interview-practice"><img src="assets/realtime-interview-practice.png" width="100%" alt="realtime-interview-practice" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/realtime-interview-practice">realtime-interview-practice</a></b><br />
-      Voice-based AI interviewer with live conversation and scored feedback.<br /><br />
+      Voice-based AI interviewer with live conversation and graded feedback.<br /><br />
       <sub>Next.js · TypeScript · OpenAI Realtime API</sub><br />
       <a href="https://github.com/Jaskey15/realtime-interview-practice">→ Code</a>
     </td>
@@ -77,7 +77,7 @@ Consultant-turned-engineer. I pair a problem-solving background with hands-on AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-**Daily drivers:** Claude Code · Conductor
+**Daily drivers:** Conductor · Claude Code · Codex
 
 ---
 
