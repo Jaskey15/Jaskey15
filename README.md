@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-### I build and ship production AI systems, from voice agents to data infastructure.
+### I build and ship production AI systems, from voice agents to data infrastructure.
 
 Biosystems engineer turned software developer. I pair a problem-solving background with hands-on AI engineering to take real-world problems from messy idea to deployed product. Below is what I've been working on.
 
@@ -22,7 +22,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/blue-thumb-dashboard">blue-thumb-dashboard</a></b><br />
-      Stream-health dashboard integrated with GCPvisualizing 20+ years of Oklahoma water-quality data.<br /><br />
+      Stream-health dashboard integrated with GCP, visualizing 20+ years of Oklahoma water-quality data.<br /><br />
       <sub>Python · Plotly · GCP · ArcGIS</sub><br />
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
     </td>
@@ -40,7 +40,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
       <br /><br />
       <b><a href="https://kapwa-help.vercel.app/demo/en">kapwa-help</a></b><br />
-      Disaster-relief PWA for disaster relief operations in the Philippines<br /><br />
+      PWA for disaster-relief operations in the Philippines.<br /><br />
       <sub>React · TypeScript · Vite</sub><br />
       <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
     </td>
