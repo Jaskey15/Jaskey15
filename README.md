@@ -14,7 +14,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <img src="assets/brain-dump.png" width="100%" alt="Distll" />
       <br /><br />
       <b>Distll</b><br />
-      An AI thought partner that turns raw notes, voice, and web clips into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous nightly reorganizer, and an LLM-as-judge eval harness (pairwise + ranking) to measure output quality.<br /><br />
+      An AI thought partner that turns raw notes, voice, and web clips into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous "dream cycke", and an LLM-as-judge eval harness to measure output quality.<br /><br />
       <sub>Vercel AI SDK · OpenRouter · Deepgram · LLM-as-judge evals · Next.js · TS</sub><br />
       <sub><i>Demo available on request</i></sub>
     </td>
@@ -22,7 +22,7 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <a href="https://github.com/Jaskey15/lead-nurture-pipeline"><img src="assets/lead-nurture-pipeline.png" width="100%" alt="lead-nurture-pipeline" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/lead-nurture-pipeline">lead-nurture-pipeline</a></b><br />
-      AI SMS nurture system shipped for two detailing brands: 1,000+ messages a week from their existing CRM, with a self-built eval loop that lifted weekly response rates from ~8% to a 29.5% peak.<br /><br />
+      AI SMS nurture system shipped for two detailing brands: 1,000+ messages a week integrated with their existing CRM, and a self-built eval loop that lifted weekly response rates from ~8% to a 29.5% peak.<br /><br />
       <sub>n8n · LLM · self-built eval loop · CRM integration</sub><br />
       <a href="https://github.com/Jaskey15/lead-nurture-pipeline">→ Case study</a>
     </td>
@@ -32,15 +32,15 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
       <br /><br />
       <b><a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">blue-thumb-dashboard</a></b><br />
-      Stream-health dashboard on Google Cloud with an automatic daily sync (Cloud Scheduler to Cloud Function to Cloud Run) and a Vertex AI assistant grounded in stream-health docs, visualizing 20+ years of Oklahoma water-quality data.<br /><br />
-      <sub>GCP (Cloud Run · Scheduler · Storage) · Vertex AI · Dash · Python · ArcGIS</sub><br />
+      Stream-health dashboard on Google Cloud with an automatic daily sync and a Vertex AI assistant grounded in domain-specif context, visualizing 20+ years of Oklahoma water-quality data.<br /><br />
+      <sub>GCP · Vertex AI · Dash · Python · ArcGIS</sub><br />
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
       <br /><br />
       <b><a href="https://kapwa-help.vercel.app/demo/en">kapwa-help</a></b><br />
-      Offline-first PWA for disaster-relief operations in the Philippines: report needs and match aid in low-connectivity zones, with submissions queued locally and synced automatically on reconnect.<br /><br />
+      Offline-first PWA for disaster-relief operations in the Philippines<br /><br />
       <sub>Offline-first PWA (Workbox · IndexedDB) · React · TS · Supabase</sub><br />
       <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
     </td>
@@ -50,16 +50,16 @@ Biosystems engineer turned software developer. I pair a problem-solving backgrou
       <a href="https://specbook-extractor.fly.dev"><img src="assets/specbook-extractor.png" width="100%" alt="specbook-extractor" /></a>
       <br /><br />
       <b><a href="https://specbook-extractor.fly.dev">specbook-extractor</a></b><br />
-      Turns messy Division 08 spec PDFs into clean, structured hardware data. A deterministic pipeline (OCR detection, regex filtering, geometry-based line numbering) feeds an LLM extraction stage with forced structured output, audited at 97.1% field accuracy.<br /><br />
-      <sub>Claude (tool use · structured output) · pdfplumber · OCR · Python · FastAPI</sub><br />
+      Turns messy Division 08 spec PDFs into clean, structured hardware data. A deterministic pipeline feeds an LLM extraction stage with forced structured output, audited at 97.1% field accuracy.<br /><br />
+      <sub>Claude SDK · pdfplumber · OCR · Python · FastAPI</sub><br />
       <a href="https://specbook-extractor.fly.dev">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/specbook-extractor">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jaskey15/realtime-interview-practice"><img src="assets/realtime-interview-practice.png" width="100%" alt="realtime-interview-practice" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/realtime-interview-practice">realtime-interview-practice</a></b><br />
-      Voice-based AI interviewer: real-time spoken conversation over the OpenAI Realtime API, then an LLM-as-judge grades the transcript against a type-specific rubric with structured output for scored, actionable feedback.<br /><br />
-      <sub>OpenAI Realtime API · WebRTC · LLM-as-judge · Next.js · TS</sub><br />
+      Voice-based AI interviewer: real-time spoken conversation over the OpenAI Realtime API, then an LLM grades the transcript against a rubric with structured output for scored, actionable feedback.<br /><br />
+      <sub>OpenAI Realtime API · WebRTC · Next.js · TS</sub><br />
       <a href="https://github.com/Jaskey15/realtime-interview-practice">→ Code</a>
     </td>
   </tr>
