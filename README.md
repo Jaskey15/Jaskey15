@@ -2,7 +2,7 @@
 
 ### I build and ship production AI systems, from voice agents to data infrastructure.
 
-Biosystems engineer turned software developer. I pair a problem-solving background with hands-on AI engineering to take real-world problems from messy idea to deployed product. Below is what I've been working on.
+Below is what I've been working on.
 
 ---
 
