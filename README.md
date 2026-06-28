@@ -2,7 +2,7 @@
 
 ### I build and ship production AI systems, from voice agents to data infrastructure.
 
-Below is what I've been working on.
+Below is some of what I've been working on.
 
 ---
 
@@ -14,7 +14,7 @@ Below is what I've been working on.
       <img src="assets/brain-dump.png" width="100%" alt="Distll" />
       <br /><br />
       <b>Distll</b><br />
-      An AI thought partner that turns raw notes, voice, and web clips into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous "dream cycke", and an LLM-as-judge eval harness to measure output quality.<br /><br />
+      An AI thought partner that turns raw notes, voice, and web clips into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous "dream cycle", and an LLM-as-judge eval harness to measure output quality.<br /><br />
       <sub>Vercel AI SDK · OpenRouter · Deepgram · LLM-as-judge evals · Next.js · TS</sub><br />
       <sub><i>Demo available on request</i></sub>
     </td>
