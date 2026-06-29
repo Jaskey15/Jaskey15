@@ -6,8 +6,6 @@ Below is some of what I've been working on.
 
 ---
 
-## Selected work
-
 <table>
   <tr>
     <td width="50%" valign="top">
