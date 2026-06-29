@@ -5,7 +5,6 @@
 Below is some of what I've been working on.
 
 ---
-## Selected Work
 
 <table>
   <tr>
