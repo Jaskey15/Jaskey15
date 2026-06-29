@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-### I build and ship production AI systems, from voice agents to data infrastructure.
+### I build and ship AI systems, from voice agents to data infrastructure.
 
 Below is some of what I've been working on.
 
