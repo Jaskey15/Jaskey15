@@ -12,7 +12,7 @@ Below is some of what I've been working on.
       <a href="https://distill-demo.vercel.app/"><img src="assets/distill.png" width="100%" alt="Distill" /></a>
       <br /><br />
       <b><a href="https://distill-demo.vercel.app/">Distill</a></b><br />
-      An AI thought partner that turns raw notes, voice, and web clips into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous "dream cycle", and an LLM-as-judge eval harness to measure output quality.<br /><br />
+      An AI thought partner that turns raw notes, voice memos, documents, and web links into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous "dream cycle", and an LLM-as-judge eval harness to measure output quality.<br /><br />
       <sub>Vercel AI SDK · OpenRouter · Deepgram · LLM-as-judge evals · Next.js · TS</sub><br />
       <a href="https://distill-demo.vercel.app/">→ Live demo</a>
     </td>
