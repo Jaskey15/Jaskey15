@@ -9,12 +9,12 @@ Below is some of what I've been working on.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/brain-dump.png" width="100%" alt="Distll" />
+      <a href="https://distill-demo.vercel.app/"><img src="assets/distill.png" width="100%" alt="Distill" /></a>
       <br /><br />
-      <b>Distll</b><br />
+      <b><a href="https://distill-demo.vercel.app/">Distill</a></b><br />
       An AI thought partner that turns raw notes, voice, and web clips into living, self-organizing wikis. Multi-agent synthesis with a tool-calling loop, an autonomous "dream cycle", and an LLM-as-judge eval harness to measure output quality.<br /><br />
       <sub>Vercel AI SDK · OpenRouter · Deepgram · LLM-as-judge evals · Next.js · TS</sub><br />
-      <sub><i>Demo available on request</i></sub>
+      <a href="https://distill-demo.vercel.app/">→ Live demo</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jaskey15/lead-nurture-pipeline"><img src="assets/lead-nurture-pipeline.png" width="100%" alt="lead-nurture-pipeline" /></a>
