@@ -35,12 +35,12 @@ Below is some of what I've been working on.
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://kapwa-help.vercel.app/demo/en"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
+      <a href="https://www.kapwahelp.org/"><img src="assets/kapwa-help.png" width="100%" alt="kapwa-help" /></a>
       <br /><br />
-      <b><a href="https://kapwa-help.vercel.app/demo/en">kapwa-help</a></b><br />
+      <b><a href="https://www.kapwahelp.org/">kapwa-help</a></b><br />
       Offline-first PWA for disaster-relief operations in the Philippines<br /><br />
       <sub>Offline-first PWA (Workbox · IndexedDB) · React · TS · Supabase</sub><br />
-      <a href="https://kapwa-help.vercel.app/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
+      <a href="https://www.kapwahelp.org/demo/en">→ Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/kapwa-help/kapwa-help">Code</a>
     </td>
   </tr>
   <tr>
