@@ -20,7 +20,7 @@ Below is some of what I've been working on.
       <a href="https://github.com/Jaskey15/lead-nurture-pipeline"><img src="assets/lead-nurture-pipeline.png" width="100%" alt="lead-nurture-pipeline" /></a>
       <br /><br />
       <b><a href="https://github.com/Jaskey15/lead-nurture-pipeline">lead-nurture-pipeline</a></b><br />
-      AI SMS nurture system shipped for two detailing brands: 1,000+ messages a week integrated with their existing CRM, and a self-built eval loop that lifted weekly response rates from ~8% to a 29.5% peak.<br /><br />
+      AI SMS nurture system shipped for two detailing brands: 1,000+ messages a week integrated with their existing CRM, and a self-built eval loop that lifted message response rates from ~8% to a 29.5%.<br /><br />
       <sub>n8n · LLM · self-built eval loop · CRM integration</sub><br />
       <a href="https://github.com/Jaskey15/lead-nurture-pipeline">→ Case study</a>
     </td>
@@ -30,7 +30,7 @@ Below is some of what I've been working on.
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/"><img src="assets/blue-thumb-dashboard.png" width="100%" alt="blue-thumb-dashboard" /></a>
       <br /><br />
       <b><a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">blue-thumb-dashboard</a></b><br />
-      Stream-health dashboard on Google Cloud with an automatic daily sync and a Vertex AI assistant grounded in domain-specif context, visualizing 20+ years of Oklahoma water-quality data.<br /><br />
+      Stream-health dashboard on Google Cloud with an automatic daily sync and a Vertex AI assistant grounded in domain-specific context, visualizing 20+ years of Oklahoma water-quality data.<br /><br />
       <sub>GCP · Vertex AI · Dash · Python · ArcGIS</sub><br />
       <a href="https://blue-thumb-dashboard-879603271232.us-central1.run.app/">→ Live dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/Jaskey15/blue-thumb-dashboard">Code</a>
     </td>
